@@ -9,6 +9,15 @@ h1 {
 
 }
 
+.color-lightgray {
+    color: #9E9E9E;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
 p {
     margin-bottom: 3%;
 }
@@ -22,15 +31,34 @@ p {
 
 .center {
     text-align: center;
-    margin: 20px, 40px;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
 }
 
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(tomato, #FF5050);
-    padding: 2px 25px;
+    padding: 5px 25px;
     border-radius: 5px;
     color: white;
     font-weight: 700px;
     font-size: 20px;
+}
+
+.inline {
+    display: flex;
+}
+
+.inline-item {
+    background-color: lightgray;
+    padding: 30px;
+    margin: 20px 15px;
+    font-size: 20px;
+}
+
+#border-red {
+    border: 2px solid red;
+    background-color: #FFC8C8;
+    border-radius: 5px;
 }
