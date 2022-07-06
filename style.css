@@ -66,10 +66,11 @@ p {
     font-size: 20px;
 }
 
-#border-red {
+#inline-second-item {
     border: 2px solid red;
-    background-color: #FFC8C8;
+    background-color: #ffe6e2;
     border-radius: 5px;
+    color: red;
 }
 
 /*Donate Plan boxes*/
@@ -99,6 +100,21 @@ p {
 #plan-three {
     background-color: #FFFCD1;
 }
+
+/*Get My Updates button*/
+.update-bg {
+    background-color: #ffe6e2;
+    width: 100%;
+    padding: 60px;
+}
+
+.update-button {
+    text-decoration: none;
+    background-color: #9E9E9E;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 
 /*footer section*/
 .footer-item {
