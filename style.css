@@ -39,7 +39,7 @@ p {
 
 .center {
     text-align: center;
-    padding: 10px;
+    padding: 100px;
     margin: auto;
     width: 50%;
 }
@@ -101,6 +101,30 @@ p {
     background-color: #FFFCD1;
 }
 
+/*Targeted Distribution*/
+.distribution-bg {
+    background-color: #d2e7b7;
+    box-shadow: 20px 20px 40px gray;
+    margin: 80px;
+    width: 70%;
+}
+
+.distribution-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.distribution-item img {
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
 /*Get My Updates button*/
 .update-bg {
     background-color: #ffe6e2;
@@ -111,10 +135,16 @@ p {
 .update-button {
     text-decoration: none;
     background-color: #9E9E9E;
+    width: 40%;
     padding: 10px;
     border-radius: 5px;
 }
 
+.align-center {
+    text-align: center;
+    padding: 20px 50px;
+    margin: auto;
+}
 
 /*footer section*/
 .footer-item {
