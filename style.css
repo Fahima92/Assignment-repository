@@ -99,3 +99,23 @@ p {
 #plan-three {
     background-color: #FFFCD1;
 }
+
+/*footer section*/
+.footer-item {
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: 800;
+    color: #FF5050;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+footer p {
+    color: #C3C3BB;
+
+}
