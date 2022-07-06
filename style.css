@@ -125,6 +125,10 @@ p {
     border-radius: 10px;
 }
 
+.target-center {
+    margin: 350px;
+}
+
 /*Get My Updates button*/
 .update-bg {
     background-color: #ffe6e2;
